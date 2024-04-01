@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ishitadutta1306&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishitadutta1306&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitadutta1306&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<hr>
+
 
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ishitadutta1306&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
