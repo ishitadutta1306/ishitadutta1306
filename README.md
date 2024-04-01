@@ -21,5 +21,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitadutta1306&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <hr>
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ishitadutta1306&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+--> 
