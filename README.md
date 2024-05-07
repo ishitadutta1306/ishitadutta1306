@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 - ⚡ Fun fact: **When I'm not immersed in the digital realm, you can find me savoring a cup of hot tea or coffee☕, indulging in a plate of fast food🍜, learning foreign languages🌐, and reading novels📚.**
-- 📫 How to reach me: **ishitadutta136@gmail.com**
+- 📫 How to reach me: **ishitadutta013@gmail.com**
 <br>
 
 ## 🌐 Socials:
