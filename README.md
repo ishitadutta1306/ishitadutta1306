@@ -1,5 +1,5 @@
-<h2 align="center">Hi👋, I'm Ishita Dutta</h2>
-<h4 align="center">Code Enthusiast | Tech Explorer 👩‍💻</h4>
+<h1 align="center">Hi👋, I'm Ishita Dutta</h1>
+<h3 align="center">Code Enthusiast | Tech Explorer 👩‍💻</h3>
 
 ## 💫 About Me:
 - ⚡ Fun fact: **When I'm not immersed in the digital realm, you can find me savoring a cup of hot tea or coffee☕, indulging in a plate of fast food🍜, learning foreign languages🌐, and reading novels📚.**
