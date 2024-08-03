@@ -37,3 +37,7 @@
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ishitadutta1306&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 --> 
+
+<!--Snake contribution graph-->
+## 📊 My Contribution Graph
+![snake gif](https://github.com/ishitadutta1306/ishitadutta1306/blob/output/github-contribution-grid-snake.svg)
